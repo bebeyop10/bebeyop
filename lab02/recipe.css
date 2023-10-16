@@ -1,0 +1,14 @@
+h1 { background-color: white;
+  margin: 100px;
+  text-align: center;
+  text-transform: uppercase;
+  }
+h3 { text-transform: uppercase;}
+h4 { text-transform: uppercase; }
+
+body {
+  height: 100px;
+  background-color: orange;
+  font-family: Comic Sans MS;
+  color: }
+p{ margin: 150px; }
